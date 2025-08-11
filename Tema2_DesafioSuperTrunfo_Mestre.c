@@ -25,6 +25,29 @@ int main() {
     float pibPerCapita2;
     float superPoder2;
 
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("Iremos cadastrar informações de cartas para o supertrunfo\n");
+    printf("Teremos 8 estados, cada um representado por uma letra de A até H\n");
+    printf("Exemplo: A - SÃO PAULO\n");
+    printf("Exemplo: B - RIO DE JANEIRO\n");
+    printf("Um código para representar a carta caso seja do mesmo estado\n");
+    printf("Exemplo: A01 - RIO DE JANEIRO\n");
+    printf("Exemplo: A02 - NITERÓI\n");
+    printf("Em seguida cadastraremos outros dados como:\n");
+    printf("População dessa cidade\n");
+    printf("Área da cidade em km²\n");
+    printf("PIB dessa cidade\n");
+    printf("Números de pontos turísticos da cidade\n");
+    printf("Após cadastrar os dados, o programa irá calcular:\n");
+    printf("A densidade, a renda percapita e o superpoder de cada carta\n");
+    printf("E por fim irá mostrar uma comparação de valores\n");
+    printf("Vamos lá!!\n");
+    printf("\n");
+    printf("\n");
+
+
     // Leitura dos dados da carta 1
     printf("Digite os dados da Carta 1:\n");
     printf("Estado (A-H): ");
